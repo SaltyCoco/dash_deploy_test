@@ -1,0 +1,14 @@
+# Created by .ignore support plugin (hsz.mobi)
+.idea/.gitignore
+.idea/dash_deploy_test.iml
+.idea/inspectionProfiles/
+.idea/misc.xml
+.idea/modules.xml
+Dockerfile
+__pycache__/
+app.py
+docker-compose.yml
+requirements.txt
+static/
+templates/
+venv/
